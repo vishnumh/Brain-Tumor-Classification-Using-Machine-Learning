@@ -8,3 +8,8 @@ Generated data and weigths can be found here -- https://cmu.box.com/s/6diszv2wk7
 
 We benchmark these results using ResNet50 and DenseNet169 architectures. A test accuracy of 99.2% is achieved using DenseNet169. However, our generated features perform better than ResNet50, prodcuing a max test accuracy equal to 96% wheras ResNet50 produces a max test accuracy equal to only 93%.
 
+## HOG Images 
+<img src="https://github.com/vishnumh/Brain-Tumor-Classification-Using-Machine-Learning/blob/main/Brain-Tumor-Classification-Using-Machine-Learning-main/hog_image.jpg" width="500">
+
+## Eigen Brains 
+<img src="https://github.com/vishnumh/Brain-Tumor-Classification-Using-Machine-Learning/blob/main/Brain-Tumor-Classification-Using-Machine-Learning-main/eigenbrains.gif" width="500">
